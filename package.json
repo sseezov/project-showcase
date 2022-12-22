@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/sseezov/project-showcase/issues"
   },
-  "homepage": "https://github.com/sseezov/project-showcase#readme"
+  "homepage": "https://github.com/sseezov/project-showcase#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
